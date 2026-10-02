@@ -1,0 +1,4 @@
+.DS_Store
+
+# CV source (only the compiled PDF is published)
+assets/files/*.tex
