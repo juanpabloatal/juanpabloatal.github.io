@@ -16,7 +16,7 @@ Then open http://localhost:8000.
 
 Place these files at the paths referenced by the site:
 
-- `assets/images/juan-pablo-atal.jpg`
+- `assets/files/pic2.jpg`
 - `assets/files/Juan-Pablo-Atal-CV.pdf`
 - PDFs for the research links listed in `index.html`
 
